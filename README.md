@@ -1,6 +1,6 @@
 # FAHH Randomizer Engine
 
-Aplikasi desktop Windows untuk memutar audio fah.mp3 secara acak di latar belakang (System Tray). Saat pertama kali dijalankan, aplikasi akan langsung memutar suara jumpscare sekali dan langsung bersembunyi ke System Tray, kemudian memutar kembali suara secara acak berdasarkan interval waktu yang ditentukan.
+Aplikasi desktop Windows untuk memutar audio fah.mp3 secara acak di latar belakang (System Tray). Saat pertama kali dijalankan, aplikasi akan langsung bersembunyi ke System Tray, kemudian memutar kembali suara secara acak berdasarkan interval waktu yang ditentukan.
 
 ## Cara Clone
 ```bash
